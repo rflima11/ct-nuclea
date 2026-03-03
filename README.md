@@ -4,12 +4,11 @@
 
 ## 1. Instruções gerais
 
-1. Formem **grupos de 4–5 pessoas**. Cada integrante deve ter um papel claro (facilitador, analista de algoritmos, designer de diagramas, relator, etc) ou atribuições de tarefas específicas dividindo o backlog levantado.
-2. O trabalho **não exige código**. A entrega consiste em:
+1. O trabalho **não exige código**. A entrega consiste em:
     * **Canvas‑PDF** (até 2 páginas) utilizando o template fornecido.
     * **Apresentação** (máximo 5 slides e 15min), podendo ser vídeo legendado ou slides narrados.
-3. A apresentação ocorrerá no Dia 3, com 15min de exposição e 10min de perguntas. Se necessário, recursos de acessibilidade (legenda, contraste alto, etc) são obrigatórios.
-4. O uso de IA generativa é permitido e incentivado, desde que citem como e quando a ferramenta foi utilizada e demonstrem compreensão da solução.
+2. A apresentação ocorrerá no Dia 3, com 15min de exposição e 10min de perguntas. Se necessário, recursos de acessibilidade (legenda, contraste alto, etc) são obrigatórios.
+3. O uso de IA generativa é permitido e incentivado, desde que citem como e quando a ferramenta foi utilizada e demonstrem compreensão da solução.
 
 ---
 

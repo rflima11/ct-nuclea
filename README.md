@@ -6,7 +6,7 @@
 
 1. O trabalho **não exige código**. A entrega consiste em:
     * **Canvas‑PDF** (até 2 páginas) utilizando o template fornecido.
-    * **Apresentação** (máximo 5 slides e 15min), podendo ser vídeo legendado ou slides narrados.
+    * **Apresentação** (slides e 15min de duração).
 2. A apresentação ocorrerá no Dia 3, com 15min de exposição e 10min de perguntas. Se necessário, recursos de acessibilidade (legenda, contraste alto, etc) são obrigatórios.
 3. O uso de IA generativa é permitido e incentivado, desde que citem como e quando a ferramenta foi utilizada e demonstrem compreensão da solução.
 
